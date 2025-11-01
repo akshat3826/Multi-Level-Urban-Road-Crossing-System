@@ -13,7 +13,7 @@ Traditional four-way intersections force all traffic streams to compete for the 
  Fuel waste and increased pollution from idling vehicles
 
 ## Our 3D Solution - How It Actually Works
-**NOTE: Before reading this section I would recommend imagining the four roads as the axis on a cartesian plane y,x,-y & -x.**
+**NOTE: Before reading this section I would recommend imagining the four roads as the axis on a cartesian plane y, x, -y & -x.**
 
 🚗 Level 1: Elevated Roads (Y-Axis) 
 Function: Carries north-south (Y-axis) traffic with synchronized traffic lights
@@ -68,6 +68,16 @@ Traditional: 1 direction moves, 3 directions wait (75% stopped).
 Our Design: 2 directions move simultaneously (only 50% stopped).
 
 Efficiency Gain: Doubled the efficiency.
+
+## OFFICIAL CLARIFICATION & KEY BENEFIT:
+
+The core innovation of our traffic model is a redesigned light cycle that drastically reduces waiting.
+
+· In a conventional intersection, a driver's wait can vary from a minimum of 30 seconds (one light cycle) up to a maximum of 90 seconds (waiting for three other roads).
+· In our multi-level system, the wait is consistently short. The maximum wait in our new system is just 30 seconds.
+
+This means a powerful and simple truth: The worst-case scenario in our new system is as good as the best-case scenario in the old one. This delivers the 66-70% reduction in wait times, doubling the intersection's efficiency.
+
 
 ## Safety First Design
 Complete physical separation of vehicles, cyclists and pedestrians
