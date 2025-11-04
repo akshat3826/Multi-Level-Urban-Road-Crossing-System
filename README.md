@@ -1,3 +1,11 @@
+# Multi-Level Urban Road Crossing System 🚦  
+**A 3D traffic management model built in Blender, designed for the CBSE National Science Innovation Competition 2025.**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/akshat3826/Multi-Level-Urban-Road-Crossing-System.svg)](https://github.com/akshat3826/Multi-Level-Urban-Road-Crossing-System/stargazers)
+[![Blender Version](https://img.shields.io/badge/Blender-3.4%2B-orange)](https://www.blender.org/)
+
+
 ## Multi-Level Urban Road Crossing System - 3D Engineering Model
 
 
@@ -145,5 +153,13 @@ Building smarter cities for tomorrow - one intersection at a time.
 
 *I would recommend going through the blender model after reading :)*
 
+## How to View the Model
+1. Download the `.blend` file from this repository.
+2. Download **Blender** on your device, search blender download and download it from the official website.
+3. Open it in **Blender** (any version should work).
+4. If any error happens try opening it in blender 4.3+.
+5. You can also visit the YouTube link for a full visual explanation:
+   👉 [Watch the video explanation](https://www.youtube.com/watch?v=4Z-rfVPf2gA)
+   
 **Contact**
 Email : akshat73@manavmangalschool.com
