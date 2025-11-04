@@ -50,24 +50,24 @@ If You're Cycling or Walking:
 
 ## Technical Specifications
 Road Dimensions
-Main Vehicle Lanes: 7.0 meters width
-Cycle Lanes: 4.0 meters width
-Pedestrian Paths: 1.0 meters width
-Safety Boundaries: 0.5 meters width
+- Main Vehicle Lanes: 7.0 meters width
+- Cycle Lanes: 4.0 meters width
+- Pedestrian Paths: 1.0 meters width
+- Safety Boundaries: 0.5 meters width
 
 Structural Elements
-Ramp Slopes: 2.86° gradient
-Underground Depth: 4.5 meters
-Wall Thickness: 0.3 meters
-Slab Thickness: 1.5 meters elevated, 2.0 meters ground
+- Ramp Slopes: 2.86° gradient
+- Underground Depth: 4.5 meters
+- Wall Thickness: 0.3 meters
+- Slab Thickness: 1.5 meters elevated, 2.0 meters ground
 
 ## Smart Features
 Coordinated Traffic Flow
-Traditional: 1 direction moves, 3 directions wait (75% stopped).
+- Traditional: 1 direction moves, 3 directions wait (75% stopped).
 
-Our Design: 2 directions move simultaneously (only 50% stopped).
+- Our Design: 2 directions move simultaneously (only 50% stopped).
 
-Efficiency Gain: Doubled the efficiency.
+- Efficiency Gain: Doubled the efficiency.
 
 ## OFFICIAL CLARIFICATION & KEY BENEFIT:
 
@@ -121,13 +121,13 @@ Self-improving system that gets smarter yearly
 
 
 ## Expected Benefits
-Time Savings: 30+ minutes daily per commuter
+- Time Savings: 30+ minutes daily per commuter
 
-Fuel Reduction: 15-20% less idling time
+- Fuel Reduction: 15-20% less idling time
 
-Safety Improvement: 40% decrease in accidents
+- Safety Improvement: 40% decrease in accidents
 
-Environmental: Reduced emissions and noise pollution
+- Environmental: Reduced emissions and noise pollution
 
 ## Technical Details
 Software: Blender 3.4+
