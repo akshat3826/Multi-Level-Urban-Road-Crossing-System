@@ -158,8 +158,6 @@ Building smarter cities for tomorrow - one intersection at a time.
 2. Download **Blender** on your device, search blender download and download it from the official website.
 3. Open it in **Blender** (any version should work).
 4. If any error happens try opening it in blender 4.3+.
-5. You can also visit the YouTube link for a full visual explanation:
-   👉 [Watch the video explanation](https://www.youtube.com/watch?v=4Z-rfVPf2gA)
    
 **Contact**
 Email : akshat73@manavmangalschool.com
