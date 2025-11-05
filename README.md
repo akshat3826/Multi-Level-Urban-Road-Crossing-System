@@ -161,3 +161,15 @@ Building smarter cities for tomorrow - one intersection at a time.
    
 **Contact**
 Email : akshat73@manavmangalschool.com
+
+
+## License
+This project is released under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY‑NC 4.0).
+
+- People may share (copy and redistribute) and adapt (remix, transform, build upon) this work.  
+- They may NOT use the work for commercial purposes (they cannot make money from it).  
+- They must give appropriate credit (attribution), provide a link to the license, and indicate if changes were made.
+
+Full legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode  
+Human-readable summary: https://creativecommons.org/licenses/by-nc/4.0/
+```
