@@ -157,7 +157,7 @@ Building smarter cities for tomorrow - one intersection at a time.
 1. Download the `.blend` file from this repository.
 2. Download **Blender** on your device, search blender download and download it from the official website.
 3. Open it in **Blender** (any version should work).
-4. If any error happens try opening it in blender 4.3+.
+4. If any error happens try opening it in blender 3.4+.
    
 **Contact**
 Email : akshat73@manavmangalschool.com
