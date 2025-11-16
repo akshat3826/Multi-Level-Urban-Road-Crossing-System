@@ -1,7 +1,7 @@
 # Multi-Level Urban Road Crossing System 🚦  
 **A 3D traffic management model built in Blender, designed for the CBSE National Science Innovation Competition 2025.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC%204.0-blue)
 [![GitHub stars](https://img.shields.io/github/stars/akshat3826/Multi-Level-Urban-Road-Crossing-System.svg)](https://github.com/akshat3826/Multi-Level-Urban-Road-Crossing-System/stargazers)
 [![Blender Version](https://img.shields.io/badge/Blender-3.4%2B-orange)](https://www.blender.org/)
 
@@ -44,7 +44,7 @@ All the outgoing lanes (the lanes moving away from the intersection) are 50% ele
 
 The 2 incoming lanes (Lanes coming towards the intersection) on the Y axis are completely elevated and the rest 2 roads on the x axis stay on the ground level.
 
-The traffic lights in the level 3 follows the tradtional method where 3 lanes stop and 1 lane moves.
+The traffic lights in the underground level or level 3 follow a simple traditional cycle where three directions stop and one direction moves, ensuring orderly movement for pedestrians and cyclists.
 
 ## Experience It Yourself - A Day in the Life
 If You're Driving North-South:
@@ -81,8 +81,9 @@ Coordinated Traffic Flow
 
 The core innovation of our traffic model is a redesigned light cycle that drastically reduces waiting.
 
-· In a conventional intersection, a driver's wait can vary from a minimum of 30 seconds (one light cycle) up to a maximum of 90 seconds (waiting for three other roads).
-· In our multi-level system, the wait is consistently short. The maximum wait in our new system is just 30 seconds.
+- In a conventional intersection, a driver's wait can vary from a minimum of 30 seconds (one light cycle) up to a maximum of 90 seconds (waiting for three other roads).
+
+- In our multi-level system, the wait is consistently short. The maximum wait in our new system is just 30 seconds.
 
 This means a powerful and simple truth: The worst-case scenario in our new system is as good as the best-case scenario in the old one. This delivers the 66-70% reduction in wait times, doubling the intersection's efficiency.
 
@@ -92,21 +93,26 @@ Complete physical separation of vehicles, cyclists and pedestrians
 No conflict points between crossing traffic streams
 Protected spaces for vulnerable road users
 
-Implementation & Impact
-Construction Phases
-Phase 1: Build underground cyclist/pedestrian tunnel (cycle lanes will be shut down traffic cn be diverted towards main lanes for some time)
+**Implementation & Impact
+Construction Phases**
 
-Phase 2: Construct elevated bridge and ramps (complete stoppage of roads might take 7-8 months to build)
+- *Phase 1:* Build underground cyclist/pedestrian tunnel (cycle lanes will be shut down traffic cn be diverted towards main lanes for some time)
 
-Phase 3: Final integration and smart system installation using AI (Doesn't effect traffic)
+- *Phase 2:* Construct elevated bridge and ramps  
+(Complete stoppage of ground-level vehicle roads for approximately 7–8 months.)  
+**During this phase, only the ground-level vehicle lanes shut.  
+The underground tunnel remains fully usable for pedestrians, cyclists, and motorcyclists.**
+
+
+- *Phase 3:* Final integration and smart system installation using AI (Doesn't effect traffic)
 
 ## AI Learning System for Smart Intersection
-Phase 1: Foundation (Years 1-2)
+- Phase 1: Foundation (Years 1-2)
 Use existing government cameras to collect traffic data
 Train AI to recognize vehicles, predict congestion, and detect emergencies
 Build base model with 10,000+ hours of traffic footage
 
-Phase 2: Live Learning (Years 3-4)
+- Phase 2: Live Learning (Years 3-4)
 Install cameras at our intersection
 AI starts making small decisions:
 Extend green lights during heavy traffic
@@ -114,7 +120,7 @@ Create emergency vehicle corridors
 Adjust timing based on real-time conditions
 Human operators monitor all decisions
 
-Phase 3: Advanced AI (Years 5-7)
+- Phase 3: Advanced AI (Years 5-7)
 AI analyzes 5+ years of data
 Makes bigger decisions:
 Coordinates multiple intersections
@@ -128,23 +134,68 @@ Prevents most of potential congestion
 Self-improving system that gets smarter yearly
 
 
-## Expected Benefits
-- Time Savings: 30+ minutes daily per commuter
+## Benefits
 
-- Fuel Reduction: 15-20% less idling time
+- Dual simultaneous traffic flows --> 66–70% less waiting
 
-- Safety Improvement: 40% decrease in accidents
 
-- Environmental: Reduced emissions and noise pollution
+- Full vehicle–pedestrian separation --> huge safety improvement
+
+
+- Massively reduced conflict points compared to traditional intersections
+
+
+- Fits in the same land footprint as a normal 4-way junction
+
+
+- Scalable for any city size — metros, towns, dense urban areas
+
+
+- Constructable in clear phases — only completely shuts in Phase 2
+
+
+- AI-based traffic signal optimisation and automatic violation detection
+
+
+- Smoother driving flow with fewer bottlenecks and short, predictable signals
+
+
+- Safer, weather-proof underground movement for pedestrians/cyclists
+
+
+- Improved emergency response using AI-controlled priority clearing
+
+
+- (Side benefit) Reduced idling due to fewer full-stop cycles
+
+
+- (Side benefit) Lower emissions from smoother movement
+
+
+- (Side benefit) Reduced noise pollution (less honking & stop–go behavior)
+
+## 🎯 **MAIN MOTIVES of the Design**
+
+### **1. Reduce traffic waiting time using vertical separation.**  
+Two directions move at the same time (elevated + ground), making the intersection far more efficient.
+
+### **2. Eliminate vehicle–pedestrian conflict entirely.**  
+Pedestrians and cyclists get a fully separated underground level, preventing accidents and delays.
+
+### **3. Create a future-ready intersection using AI.**  
+Adaptive signals, congestion prediction, emergency lane creation, and violation detection.
+
+### **4. Improve efficiency without needing extra land.**  
+The entire system fits in the footprint of a standard intersection, solving land-scarcity issues in Indian cities. (good alternative where cloverleaf intersections are needed but can't be implemented)
 
 ## Technical Details
-Software: Blender 3.4+
+- Software: Blender 3.4+
 
-Scale: Real-world metric (1 unit = 1 meter)
+- Scale: Real-world metric (1 unit = 1 meter)
 
-Engineering Standards: All components follow highway and urban planning specifications
+- Engineering Standards: All components follow highway and urban planning specifications
 
-The Big Picture
+- The Big Picture
 This isn't just another flyover or tunnel - it's a completely reimagined intersection where all three levels work together harmoniously. By coordinating traffic flow between levels and providing absolute safety for cyclists and pedestrians, we've created a system that moves twice as many people in the same time while making cities more livable for everyone.
 
 Building smarter cities for tomorrow - one intersection at a time.
