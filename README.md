@@ -160,7 +160,7 @@ Building smarter cities for tomorrow - one intersection at a time.
 4. If any error happens try opening it in blender 3.4+.
    
 **Contact**
-Email : akshat73@manavmangalschool.com
+Email : akshat3826@gmail.com
 
 
 ## License
