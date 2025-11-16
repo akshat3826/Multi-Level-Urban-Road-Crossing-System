@@ -1,7 +1,7 @@
 # 🎨 3D Model Documentation
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC%204.0-blue)
 
 ## 📁 Model Files
-
 **Main Blender File:** `Multi-Level-Road-Crossing-System.blend`  
 **Blender Version:** 3.4+ recommended  
 **Scale:** Real-world metric (1 Blender unit = 1 meter)
