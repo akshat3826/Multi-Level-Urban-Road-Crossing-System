@@ -7,8 +7,10 @@
 
 ## Link to other branches
 
-- **[Documentation](tree/Documentation/)** - Implementation planning & costs
-- **[3D Model](tree/3d-model/)** - Technical files & visual assets 
+- [**Documentation**](https://github.com/akshat3826/Multi-Level-Urban-Road-Crossing-System/tree/Documentation) - Cost analysis, AI integration roadmap, construction phases, and funding strategies
+
+- [**3D Models**](https://github.com/akshat3826/Multi-Level-Urban-Road-Crossing-System/tree/3d-model) - Blender files, render explanations, and technical specifications
+
 
 
 ## Multi-Level Urban Road Crossing System - 3D Engineering Model
