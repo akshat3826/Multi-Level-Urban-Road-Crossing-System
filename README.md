@@ -5,6 +5,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/akshat3826/Multi-Level-Urban-Road-Crossing-System.svg)](https://github.com/akshat3826/Multi-Level-Urban-Road-Crossing-System/stargazers)
 [![Blender Version](https://img.shields.io/badge/Blender-3.4%2B-orange)](https://www.blender.org/)
 
+## Link to other branches
+
+- **[Documentation](tree/Documentation/)** - Implementation planning & costs
+- **[3D Model](tree/3d-model/)** - Technical files & visual assets 
+
 
 ## Multi-Level Urban Road Crossing System - 3D Engineering Model
 
