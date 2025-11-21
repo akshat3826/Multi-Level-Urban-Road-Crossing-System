@@ -71,6 +71,40 @@ This document summarizes the main limitations identified during the design of th
 - **Edge processing**: local video analysis with auto face/plate blur until confirmation.  
 - **Fail-safe mode**: if AI fails → revert to fixed-time signals.
 
+
+## 8. Frequently Asked Questions (Q&A)
+
+**Q1 — Why does the pedestrian/cyclist tunnel not have emergency exits?**  
+A1 — The tunnel is short (≈30–40 m), straight, and open-ended on all four approaches. This layout allows evacuation in under 20–25 seconds, similar to short underpasses used in the Netherlands, Singapore, and Delhi BRT corridors where no mid-tunnel exits are required. Continuous CCTV, extinguishers, and backup lighting provide the safety layer typically used in real-world pedestrian underpasses.
+
+**Q2 — What if a motorbike or scooter breaks down inside the tunnel?**  
+A2 — Most cities restrict motorbikes in pedestrian/cycle underpasses. If permitted, the standard global approach is CCTV + automatic incident detection, which you use here. It immediately flags a stalled vehicle and extends clearance time (same method used in Mumbai Coastal Road and Bangalore ORR underpasses). A response team can also be dispatched if needed.
+
+**Q3 — How is ventilation handled in the tunnel?**  
+A3 — Short open-ended tunnels rely primarily on natural cross-ventilation—this is standard practice worldwide. If motorbikes are allowed, one small axial exhaust fan is added (same as in Delhi’s AIIMS underpass and Singapore’s pedestrian tunnels). Because vehicle volumes are low or zero, pollutant levels stay within safe limits.
+
+**Q4 — How are blind spots and sight-distance issues addressed on ramps?**  
+A4 — The 10 m flat + 5 m transition + 2.86° ramp gives >55 m visibility at 50 km/h, exceeding IRC stopping sight-distance requirements. This geometry is already used in urban flyovers in Pune, Ahmedabad, and Delhi elevated corridors. Reflective chevrons and crash barriers add the same safety used in real flyover designs.
+
+**Q5 — What happens during a power outage or lighting failure?**  
+A5 — The design uses the same protocol as metro underpasses and urban subways: 2-hour battery-backed LED lighting + UPS for critical CCTV/panic systems. If power stays out longer, the tunnel remains safely walkable due to open ends and daylight penetration.
+
+**Q6 — How is the tunnel kept secure and user-friendly (avoidance of crime/anti-social behaviour)?**  
+A6 — This follows Dutch and Danish tunnel design principles: bright lighting, straight lines of sight, zero hidden corners, full CCTV coverage, and frequent patrols. Small art installations or kiosks (used under many Japanese elevated roads) improve perceived safety.
+
+**Q7 — How will AI false positives (wrong violation flags) be handled?**  
+A7 — The system follows the same “human-in-the-loop” approach used in Hyderabad’s and Bangalore’s AI traffic enforcement: AI only flags, humans approve. Edge processing with face/plate masking until verification matches current global privacy standards.
+
+**Q8 — What if groundwater or utilities are worse than assumed at a real site?**  
+A8 — This challenge is handled exactly how major Indian underpasses deal with it: waterproofing membranes, cut-off walls, temporary dewatering pumps, and redesigning to a shallower cut-and-cover if necessary. A full geotechnical survey prevents unexpected costs.
+
+**Q9 — Can the tunnel be used during Phase 2 (elevated construction)?**  
+A9 — Yes. This is the same staged approach used in metro construction: build the underpass first, keep it open, then lift girders for the elevated road mostly at night. The pedestrian tunnel remains safe and functional during elevated works.
+
+**Q10 — Which urban sites are best for this design and which should avoid it?**  
+A10 — Best-fit zones are arterial corridors and ring-road intersections where most vehicles go straight (similar to where Pune, Jaipur, and Hyderabad use flyovers). Avoid dense old-city areas with high turning movement and tight ROW—cities already reject flyovers there too. The model follows the same planning logic.
+
+
 ---
 
 ## 8. Ready-to-Use Inserts
