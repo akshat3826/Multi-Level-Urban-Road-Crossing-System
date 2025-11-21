@@ -1,8 +1,6 @@
 # Engineering Mitigation Strategies for Identified Limitations
 
-This document lists the major drawbacks of the system and provides clear engineering + planning solutions for each.
-
-
+This document summarizes the main limitations identified during the design of the Multi-Level Urban Road Crossing System and provides practical engineering strategies to mitigate them. The goal is to ensure that the system remains functional, safe, and financially feasible under real-world conditions.
 
 ## 1. Cost & Maintenance
 
@@ -33,7 +31,7 @@ This document lists the major drawbacks of the system and provides clear enginee
 - **Sight-distance geometry**: 10 m flat + 5 m transition + 2.86° ramp = >55 m visibility for 50 km/h.  
 - **Crash barriers**: 1.1 m high, IRC-compliant; reflective chevrons; lane markers.  
 - **LiDAR/CCTV detection** for stalled vehicles → auto clearance extension.  
-- **Tunnel safety**: mechanical ventilation, emergency exits every 30–50 m, CCTV, panic buttons, 2-hour backup lights.  
+- **Tunnel safety**: mechanical ventilation, CCTV, panic buttons, 2-hour backup lights.  
 - **Emergency drills** with fire/ambulance; hydrants + extinguishing systems.
 
 
@@ -57,8 +55,15 @@ This document lists the major drawbacks of the system and provides clear enginee
 - **Corridor planning** for adjacent intersections so ramps align smoothly.
 
 
+## 6. Assumptions Used
+- Maximum design speed: 40–50 km/h  
+- Peak hour volume: 1600–2000 veh/h per direction  
+- Soil type assumed: Medium-dense granular / urban backfill  
+- Groundwater depth: >4.5 m
 
-## 6. AI Reliability & Privacy
+
+
+## 7. AI Reliability & Privacy
 
 ### Solutions
 - **Minimal AI scope**: clearance monitoring, emergency detection, violation flagging only.  
@@ -68,7 +73,7 @@ This document lists the major drawbacks of the system and provides clear enginee
 
 ---
 
-## 7. Ready-to-Use Inserts
+## 8. Ready-to-Use Inserts
 
 ### Sight-Distance Text
 > Stopping sight-distance checks confirm that the 10 m flat + 5 m transition + 2.86° ramp give >55 m of visibility at 50 km/h, exceeding IRC requirements.
@@ -82,6 +87,6 @@ This document lists the major drawbacks of the system and provides clear enginee
 
 ---
 
-## 8. Judge-Friendly Summary
+## 9. Judge-Friendly Summary
 
 > All major risks—cost, disruption, safety, environment, scalability, and AI reliability—are controlled using prefab construction, phased rollout, verified sight-distance geometry, tunnel safety systems, low-carbon materials, pilot testing, and human-supervised AI. The system remains functional even if AI is offline.
