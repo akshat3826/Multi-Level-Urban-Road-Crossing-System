@@ -107,7 +107,7 @@ A10 — Best-fit zones are arterial corridors and ring-road intersections where 
 
 ---
 
-## 8. Ready-to-Use Inserts
+## 9. Ready-to-Use Inserts
 
 ### Sight-Distance Text
 > Stopping sight-distance checks confirm that the 10 m flat + 5 m transition + 2.86° ramp give >55 m of visibility at 50 km/h, exceeding IRC requirements.
@@ -121,7 +121,7 @@ A10 — Best-fit zones are arterial corridors and ring-road intersections where 
 
 ---
 
-## 9. Judge-Friendly Summary
+## 10. Judge-Friendly Summary
 
 > This design addresses the major urban traffic risks—cost, construction disruption, safety, environment, scalability, and AI reliability—using standard engineering practices such as prefabricated spans, phased rollout, IRC-compliant sight-distance geometry, tunnel safety systems, low-carbon materials, and human-supervised AI. The system remains fully functional even if AI is offline, and all critical safety mechanisms rely on proven methods used in existing Indian and international projects.
 
