@@ -221,12 +221,19 @@ Email : akshat3826@gmail.com
 
 
 ## License
-This project is released under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY‑NC 4.0).
+This project is released under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-- People may share (copy and redistribute) and adapt (remix, transform, build upon) this work.  
-- They may NOT use the work for commercial purposes (they cannot make money from it).  
-- They must give appropriate credit (attribution), provide a link to the license, and indicate if changes were made.
+You are free to:
+- Share: copy and redistribute the material in any medium or format.
+- Adapt: remix, transform, and build upon the material.
 
-Full legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode  
-Human-readable summary: https://creativecommons.org/licenses/by-nc/4.0/
-```
+Under the following terms:
+- Attribution: You must give appropriate credit, provide a link to this repository, and indicate if changes were made.
+- NonCommercial: You may not use this material for any commercial purpose, including monetized competitions, corporate use, or profit-based projects.
+
+Courtesy Request (Not Legally Binding):
+If you adapt, modify, or build upon this work, please send a quick email to notify me so I can track how the project is being used:
+Email: akshat3826@gmail.com
+
+Full license text:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
