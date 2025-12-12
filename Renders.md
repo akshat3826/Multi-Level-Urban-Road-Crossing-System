@@ -8,7 +8,7 @@ This technical overview demonstrates the feasibility of our three-tier system:
 - **Ground Plane**: Standard asphalt roads with smart traffic coordination
 
 ### Innovation Highlight:
-The coordinated multi-level flow enables **66% reduction in wait times** while maintaining standard intersection footprint.
+The coordinated multi-level flow enables **66.7% reduction in wait times** while maintaining standard intersection footprint.
 
 <img width="1920" height="1080" alt="Untitled" src="https://github.com/user-attachments/assets/23b086c0-9822-43ee-b4a5-f2aeae43a8d2" />
 
