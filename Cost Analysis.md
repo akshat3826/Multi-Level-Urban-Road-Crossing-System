@@ -117,7 +117,7 @@ Here’s the short, judge-friendly explanation:
 ## **1. You get *cloverleaf-level performance* at *flyover-level cost*.**
 Cloverleaf junctions cost **₹350–800 crore** and need massive land.
 
-Your design costs **₹95–180 crore**, but still offers:
+This design costs **₹95–180 crore**, but still offers:
 
 - Fully separated flows  
 - Simultaneous 2-direction movement  
