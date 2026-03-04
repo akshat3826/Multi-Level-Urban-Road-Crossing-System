@@ -124,8 +124,6 @@ This design costs **₹95–180 crore**, but still offers:
 - Drastically reduced cycle time (30s avg vs 90s)  
 - No pedestrian conflict (underground tunnel)
 
-This is like getting an iPhone Pro at the price of the base iPhone.
-
 ---
 
 ## **2. Zero Land Acquisition (Huge cost saving)**
